@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '@/components/TheWelcome.vue'
+import InterviewForm from '@/components/InterviewForm.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <InterviewForm />
   </main>
 </template>
